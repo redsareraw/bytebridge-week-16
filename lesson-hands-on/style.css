@@ -1,0 +1,19 @@
+.form-group.row {
+    align-items: center;
+}
+
+.form-group label {
+    padding-right: 5px;
+}
+
+.form-group .col-sm-3 {
+    padding-left: 0;
+}
+
+h1 {
+    margin-bottom: 25px;
+}
+
+button {
+    margin-top: 15px;
+}
